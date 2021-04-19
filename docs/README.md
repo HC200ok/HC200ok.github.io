@@ -22,7 +22,7 @@
 - [vue-ssr-boilerplate](https://github.com/wallstreetcn/vue-ssr-boilerplate)でサーバサイドレンダリング(SSR)の実装(当時はNuxt.jsまだ流行っていないでした)。
 - WebSocketを用いて[リアルタイムニュス](https://wallstreetcn.com/live/global)機能の開発。
 - [华尔街见闻のPCバージョン](https://wallstreetcn.com)のホームページ、記事、検索などのページの開発。
-- 华尔街见闻Native appにてhybrid html5ページの開発。
+- 华尔街见闻Native appにてwebviewのhtml5ページの開発等。
 
 ##### 技術要素
 Vue.js、webpack、ES2015(ES6)、GitLab、Vue Router、Axios、Sketch等。
